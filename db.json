@@ -1,0 +1,19 @@
+{
+  "promoters": [
+    {
+      "id": 1,
+      "fullName": "John Doe",
+      "document": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 2,
+      "fullName": "Michael Jordan",
+      "document": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 3,
+      "fullName": "Peter Parker",
+      "document": "https://picsum.photos/200/300"
+    }
+  ]
+}
